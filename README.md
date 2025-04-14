@@ -17,8 +17,8 @@ I assume that this is a limitation of my specific device, but since I don't have
 ## Building it
 
 For anyone interested in playing along, this repository contains the KiCad files for the PCB. The schematics are basically the voltage-level adapter as shown on http://www.hohensohn.info/mbus/
-plus the Atmel microcontroller with a few switches, HD44780 compatible display, and power supply. Note that the PCB has the footprint for a TO-92 7805 regulator, but that was a bit optimistic choice.
-When I tried, it immediately dissolved in a white cloud. Thus, a TO-220 should be fitted into it instead.
+plus the Atmel microcontroller with a few switches, HD44780 compatible display, and power supply. I use an old 12V plug-in power supply. Note that the PCB has the footprint for a TO-92 7805 regulator for the 5V needed for the uC and display.
+However, the TO-92 was a slightly too optimistic choice. When I tried, it immediately dissolved in a white cloud. Thus, a TO-220 should be fitted into it instead.
 The LCD used is this one: [PDF datasheet](https://www.lcd-module.de/eng/pdf/doma/dips082e.pdf).
 The uC-Board is a cheap [Arduino clone](https://www.amazon.com/Teyleten-Robot-Bootloadered-Development-Microcontroller/dp/B08THVMQ46/).
 
