@@ -8,9 +8,11 @@ After some searching, I found that the actual manufacturer of the device is Alpi
 The pinout of the connector apparently is proprietary, but it is not too difficult to identify the +12V / GND wires.
 Just notice that there is a separate separate wire to the car ignition that also has to be connected to +12V to start it up.
 
+The other wires are for M-Bus and the audio output, each with its own GND.
+
 Fortunately, I found this website that did some reverse engineering of the M-Bus protocol: http://www.hohensohn.info/mbus/
 Most of it matched my CD-changer, but several commands simply did not work, thus I could not implement typical CD-player functions like "pause".
-I assume that this is a limitation of the specific device, but since I don't have the original radio controller anymore, I cannot say for sure.
+I assume that this is a limitation of my specific device, but since I don't have the original radio controller, I cannot say for sure.
 
 ## Building it
 
