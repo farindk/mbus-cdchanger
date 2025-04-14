@@ -26,5 +26,6 @@ I removed the suspension mounting of the CD drive since it was worn out after so
 
 ## Video
 
-[Demo video](https://www.youtube.com/watch?v=HMd5gL0tslU)
+[![image](https://github.com/user-attachments/assets/5a3b88e0-bb79-4286-800f-44465af6df1f)](https://www.youtube.com/watch?v=HMd5gL0tslU)
 
+[Demo video](https://www.youtube.com/watch?v=HMd5gL0tslU)
