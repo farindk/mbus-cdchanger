@@ -14,6 +14,12 @@ Fortunately, I found this website that did some reverse engineering of the M-Bus
 Most of it matched my CD-changer, but several commands simply did not work, thus I could not implement typical CD-player functions like "pause".
 I assume that this is a limitation of my specific device, but since I don't have the original radio controller, I cannot say for sure.
 
+## Video
+
+[![image](https://github.com/user-attachments/assets/5a3b88e0-bb79-4286-800f-44465af6df1f)](https://www.youtube.com/watch?v=HMd5gL0tslU)
+
+[Demo video](https://www.youtube.com/watch?v=HMd5gL0tslU)
+
 ## Building it
 
 For anyone interested in playing along, this repository contains the KiCad files for the PCB. The schematics are basically the voltage-level adapter as shown on http://www.hohensohn.info/mbus/
@@ -26,8 +32,4 @@ Because of the minimum ordering quantities, I have a couple of spare PCBs. Anyon
 
 I removed the suspension mounting of the CD drive since it was worn out after so many years anyways, and I mounted the drive mechanics directly to the case.
 
-## Video
-
-[![image](https://github.com/user-attachments/assets/5a3b88e0-bb79-4286-800f-44465af6df1f)](https://www.youtube.com/watch?v=HMd5gL0tslU)
-
-[Demo video](https://www.youtube.com/watch?v=HMd5gL0tslU)
+![PXL_20250428_093103646](https://github.com/user-attachments/assets/62786af3-9d12-49df-9bc1-4eb0ce9c99dd)
