@@ -28,7 +28,7 @@ However, the TO-92 was a slightly too optimistic choice. When I tried, it immedi
 The LCD used is this one: [PDF datasheet](https://www.lcd-module.de/eng/pdf/doma/dips082e.pdf).
 The uC-Board is a cheap [Arduino clone](https://www.amazon.com/Teyleten-Robot-Bootloadered-Development-Microcontroller/dp/B08THVMQ46/).
 
-Because of the minimum ordering quantities, I have a couple of spare PCBs. Anyone interested can drop me a line and I'll send it to them for postage and packaging.
+Because of the minimum ordering quantities, I have a couple of spare PCBs (3 available). Anyone interested can drop me a line and I'll send it to them for postage and packaging.
 
 I removed the suspension mounting of the CD drive since it was worn out after so many years anyways, and I mounted the drive mechanics directly to the case.
 
